@@ -10,5 +10,5 @@ public class InvertedHalfPyramidwithNUM {
 
     public static void main(String[] args) {
         inverted_half_pyramid_with_numbers(7);
-    }
-}
+     }
+ }
